@@ -1,0 +1,7 @@
+title: SpendIQ Build Notes
+description: How I built SpendIQ with a multi-agent Claude Code workflow.
+theme: jekyll-theme-minimal
+author:
+  name: Gunapal Sripal
+  email: gunapal.spendiq@gmail.com
+show_downloads: false
